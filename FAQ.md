@@ -35,7 +35,8 @@
 ### 최대 몇명까지 탑승 가능한가요?
 
 - 선택하신 기체마다 다르게 적용되므로 문의를 부탁드립니다.
-  ![test image](https://static.wixstatic.com/media/7609e5_567ecdabf962446aa8ab8b8e268e9186~mv2.png/v1/fill/w_347,h_193,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/credit%20car%E3%85%8Bd.png)
+
+![test image](https://static.wixstatic.com/media/7609e5_567ecdabf962446aa8ab8b8e268e9186~mv2.png/v1/fill/w_347,h_193,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/credit%20car%E3%85%8Bd.png)
 
 ### 위탁 수하물과 다른 부가 서비스도 결제해야 하나요?1
 
